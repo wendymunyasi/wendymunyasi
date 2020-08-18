@@ -17,11 +17,30 @@ Apart from doing programming, I like to read nuclear science.
 The Google Africa Developer Internship program.
 
 ### What I do for fun 😄 
-Play cards
-Record non-sense videos which I will never dare post anywhere. lol.
+* Play cards
+* Record non-sense videos which I will never dare post anywhere. lol.
+* Go for hikes when I get the time.
+
+### I could probably beat you at ...
+Doing press-ups.. 💪
 
 ### 💬 Ask me about ...
-The Goddamn particle.
+The Goddamn particle!
+
+### 📫 How to reach me: ...
+* <img src="./assets/gmail.svg" width="13" /> : wendymunyasi@gmail.com
+* <img src="./assets/linkedin.svg" width="13" /> : [wendymunyasi](https://www.linkedin.com/in/wendy-munyasi/)
+
+
+### ⚡ Some jokey joke ⚡
+
+<h3 align="center">Two atoms are walking down the street together. The first atom turns and says, "Hey, you just stole an electron from me! <br>
+"Are you sure?" asks the second atom. <br>
+To which the first atom replies, "Yeah, I'm positive!" <br>
+🤣
+ </h3>
+
+
 
 
 
