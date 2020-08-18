@@ -7,14 +7,8 @@
 I am just another physicist person who fell for coding. 🙃
 
 ### I have experience with:
-<img src="./assets/html-5.svg" />
-<img src="./assets/css-3.svg" />
-<img src="./assets/javascript.svg" />
-<img src="./assets/angular-icon.svg" />
-<img src="./assets/python.svg" />
-<img src="./assets/django.svg" />
-<img src="./assets/flask.svg" />  
-<img src="./assets/postgresql.svg"/>
+<img src="./assets/html-5.svg" /> <img src="./assets/css-3.svg" /> <img src="./assets/javascript.svg" /> <img src="./assets/angular-icon.svg" /> <img src="./assets/python.svg" />
+<img src="./assets/django.svg" /> <img src="./assets/flask.svg" /> <img src="./assets/postgresql.svg"/>
 
 ### Nuclear Science <img src="./assets/nuclear-power-plant.svg" width="24" />
 Apart from doing programming, I like to read nuclear science.
