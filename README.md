@@ -32,13 +32,14 @@ The Goddamn particle!
 * <img src="./assets/linkedin.svg" width="13" /> : [wendymunyasi](https://www.linkedin.com/in/wendy-munyasi/)
 
 
+<br><br>
 ### ⚡ Some jokey joke ⚡
 
-<h3 align="center">Two atoms are walking down the street together. The first atom turns and says, "Hey, you just stole an electron from me! <br>
+<h4 align="center">Two atoms are walking down the street together. The first atom turns and says, "Hey, you just stole an electron from me! <br>
 "Are you sure?" asks the second atom. <br>
 To which the first atom replies, "Yeah, I'm positive!" <br>
 🤣
- </h3>
+ </h4>
 
 
 
