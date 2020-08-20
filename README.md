@@ -1,4 +1,4 @@
-## Fullstack Web Developer
+## Full stack Web Developer
 
 
 ### Hi there 👋 I am Wendy Munyasi.
