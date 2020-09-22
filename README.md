@@ -20,6 +20,12 @@ The Google Africa Developer Internship program.
 * Play cards
 * Record non-sense videos which I will never dare post anywhere. lol.
 * Go for hikes when I get the time.
+* Collect coins.
+* Listen to music.
+* Read fanfictions.
+
+
+**PS** - I like reading novels - my favorite is **The Eye of God** by **James Rollins.**
 
 ### I could probably beat you at ...
 Doing press-ups.. 💪
