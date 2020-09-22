@@ -14,7 +14,7 @@ I am just another physicist person who fell for coding. 🙃
 Apart from doing programming, I like to read nuclear science.
 
 ### 🔭 I’m currently working on...
-The Google Africa Developer Internship program.
+The Google Africa Developer Scholarship program.
 
 ### What I do for fun 😄 
 * Play cards
