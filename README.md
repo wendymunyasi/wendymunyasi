@@ -3,6 +3,11 @@
 
 ### Hi there 👋 I am Wendy Munyasi.
 
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=wendymunyasi&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
 ### About Me
 I am just another physicist person who fell for coding. 🙃
 
