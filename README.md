@@ -1,21 +1,8 @@
 ## Full stack Web Developer
 
 
-### Hi there 👋 I am Wendy Munyasi.
-</br>
-
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=wendymunyasi&show_icons=true&count_private=true&theme=radical" width="350"></a>
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendymunyasi&langs_count=10&layout=compact&theme=radical" width="350"></a>
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://streak-stats.demolab.com/?user=wendymunyasi&theme=radical" width="350"></a>
-</p>
+### Hi there 👋 I am Wendy Munyasii.
+<br>
 
 
 
@@ -62,18 +49,18 @@ To which the first atom replies, "Yeah, I'm positive!" <br>
  </h4>
 
 
+### ⚡ Stats ⚡
+</br>
 
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=wendymunyasi&show_icons=true&count_private=true&theme=radical" width="350"></a>
+</p>
 
-<!--
-**wendymunyasi/wendymunyasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendymunyasi&langs_count=10&layout=compact&theme=radical" width="350"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  <a href="#"><img src="https://streak-stats.demolab.com/?user=wendymunyasi&theme=radical" width="350"></a>
+</p>
