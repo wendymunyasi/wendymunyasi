@@ -1,7 +1,7 @@
 ## Full stack Web Developer
 ![gitartwork](gitartwork.svg)
 
-### Hi there 👋 I am Wendy Munyasii.
+### Hi there 👋 I am Wendy Munyasi.
 <br>
 
 
