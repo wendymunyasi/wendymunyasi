@@ -36,7 +36,7 @@ The Goddamn particle!
 
 ### 📫 How to reach me ...
 * 📧 : wendymunyasi@gmail.com
-*  <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> : [linkedin.com/in/wendy-munyasi](https://www.linkedin.com/in/wendy-munyasi/)
+*  <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> : [linkedin.com/in/wendy-munyasi](https://www.linkedin.com/in/munyasi-w/)
 
 
 <br><br>
