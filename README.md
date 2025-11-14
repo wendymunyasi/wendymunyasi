@@ -7,7 +7,7 @@
 
 
 ### About Me
-I am just another physicist person who fell for coding. 🙃
+I am just another physicist who fell for coding. 🙃
 
 ### I have experience with:
 
